@@ -39,6 +39,7 @@ Contributions to Healthy Eats are welcome from developers, designers, nutritioni
 
 - Nitya Kansal
 - Sarthak Kansal
+- Shreya (@CodeWithShreya12)
 
 ## License
 
