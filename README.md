@@ -41,6 +41,7 @@ Contributions to Healthy Eats are welcome from developers, designers, nutritioni
 - Sarthak Kansal (@kansal-sarthak)
 - Shreya (@CodeWithShreya12)
 - Tanisha Shankpal (@tashuts)
+- Rishi Khante (@Rishi-Khante)
 - Dhruv Shankpal (@DhruvShankpal)
 
 ## License
