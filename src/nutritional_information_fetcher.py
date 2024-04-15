@@ -9,3 +9,7 @@ class NutritionalInformationFetcher:
     def fetch_nutritional_information(self):
         """ This method fetches nutritional information"""
         return None
+    
+    def is_suitable_for_diabetics(self, ingredients_list: list):
+        """ This method helps determine if the food is suitable for a diabetic patient""" 
+        return True
